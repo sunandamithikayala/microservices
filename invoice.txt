@@ -1,0 +1,4 @@
+2x Java Programming		500
+Discount Rate: 0.1
+Tax Rate: 0.05
+Total: 945.0

@@ -2,7 +2,7 @@ package com.d;
 
 import java.io.StringWriter;
 import java.io.IOException;
-
+//this is stringwriterservice
 public class StringWriterService implements Writable {
     private final StringWriter stringWriter;
 

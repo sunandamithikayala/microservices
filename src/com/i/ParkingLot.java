@@ -1,5 +1,5 @@
 package com.i;
-
+//FeeParking
 public class ParkingLot implements FeeParking {
     private int capacity;
     private int occupiedSpots;
